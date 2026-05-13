@@ -1,0 +1,6 @@
+City,Country,Temperature_F,Temperature_C,Condition,Humidity,Wind_MPH,Sunrise,Sunset,Forecast_Day1_AvgTemp_F,Forecast_Day2_AvgTemp_F,Forecast_Day3_AvgTemp_F
+Louisville,United States of America,70.0,21.1,Clear,42,5.6,06:34 AM,08:45 PM,65.3,62.7,54.0
+New York,United States of America,54.0,12.2,Clear,59,11.2,05:42 AM,08:03 PM,56.9,60.7,58.6
+Lihue,United States of America,81.3,27.4,Light rain,74,13.2,05:59 AM,07:09 PM,73.9,74.2,73.9
+Kapaa,United States of America,81.3,27.4,Light rain,74,13.2,05:59 AM,07:09 PM,73.9,74.2,73.9
+Morehead,Papua New Guinea,85.1,29.5,Patchy rain nearby,70,8.1,06:37 AM,06:22 PM,79.5,78.5,79.2
